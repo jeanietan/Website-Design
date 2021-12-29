@@ -1,0 +1,32 @@
+.header{
+   font-size: 50px;
+   color: khaki;
+   text-align: center;
+   background-image: url("pattern.webp");
+}
+
+.bold-font{
+  font-family: Helvetica;
+  font-weight: bold;;
+}
+
+.heading-color{
+  font-size: 32px;
+  color: white;
+}
+
+.price{
+   color: blue;
+}
+
+.brushes{
+    background-color: mediumspringgreen;
+}
+
+.frames{
+  background-color: lightcoral;
+}
+
+.paint{
+  background-color: skyblue;
+}
